@@ -21,7 +21,7 @@ export class DemoComponent extends React.Component {
         return (
                 <div>
                 <h1 className="democss">{this.props.store.demo}</h1>
-                <h1>Greetings traveler</h1>
+                <h1>Greetings push version</h1>
                 </div>
         ); 
         

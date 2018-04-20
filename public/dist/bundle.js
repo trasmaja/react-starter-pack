@@ -25551,7 +25551,7 @@ var DemoComponent = exports.DemoComponent = (0, _mobxReact.observer)(_class = fu
                 _react2.default.createElement(
                     'h1',
                     null,
-                    'Greetings traveler'
+                    'Greetings push version'
                 )
             );
         }
